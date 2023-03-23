@@ -1,0 +1,89 @@
+<html>
+<html lang ="en">
+<head>
+	<meta charset="UTF=8">
+	<meta http-equiv="X-UA Compatible" content="IE-edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PorygonX</title>
+
+<style>
+      body {
+      	 background-color: lightgrey;
+      }
+      .contenedor {
+      	background-color: lightslategray;
+      	padding: 10px;
+      }
+      .contenedorr{
+      	background-color: grey;
+      	padding: 40px;
+      }
+      .contenedorrr{
+      	background-color: lightslategray;
+      	padding: 40px;
+      }
+      .contenedorrrr{
+      	background-color: lightgrey;
+      	padding: 10px;
+      }
+
+  </style>	
+</head>      
+
+<body>
+
+<div class="contenedor">
+ <center><font size="5" color="#B22222"><h1>PorygonX</h1></font size="5" color="#B22222"></center>
+ <h2><b>Es un proyecto en busca del desarrollo tecnologico en los paises sub-desarrollados.</b> Inicio el 27 de marzo de 2019, en la pandemia se vio afectado y casi cancelado, pero hoy en dia ha ayudado a mas de 20 paises africanos, y se encuentra en el proceso con 7 paises latinos.</h2>
+ <center><img src="C:\Users\CELA T000000\Downloads\descarga.jpg" alt="Firma" height="350x300px"></center><p>
+ <a href="mail to:celaeducacion@gmail.com" title= "Enviar correo al fundador">Enviar correo a la organizacion</a> 
+ 
+
+
+<font size="5" color="#B22222"><h1>¿Quienes somos?</h1></font size="5" color="#B22222">
+<h2>El proyecto empezo por un grupo de estudiantes estadounidenses y noruegos que se dieron cuenta de la situacion de paises desfavorecidos y decidieron hacer un cambio, al inicio fue dificil pero consiguieron impulsar el proyecto. Actualmente estamos integrados por los mismo miembros fundadores que han coseguido que el proyecto se convirtiera en toda una organizacion reconocida mundialmente. </h2>
+
+</div>
+
+
+<hr></hr>
+<div class="contenedorr">
+
+<font size="5" color="#CD5C5C"><h1>La cruda realidad de los paises africanos</h1></font size="5" color="#CD5C5C">
+<h2>Una nueva generación de africanos está tomando las riendas del desarrollo a través de la conexión tecnológica. Conexión a la energía solar para obtener corriente eléctrica. Conexión a redes móviles para una nueva forma de comercio. Conexión a internet para llegar al mundo digital.<font size="5" color="#F08080">Pero en comparacion a otros paises sigue estando muy atras, sin embargo nosotros no perderemos nuestro objetivo.</h2></font size="5" color="#F08080">
+
+<center><img src ="C:\Users\CELA T000000\Downloads\descarga (1).jpg" alt="Infantes en africa" height="380x320px"></center>
+<p>
+
+<center><h2>Video informativo sobre Africa</h2></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/oWX-hFO3_Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+</div>
+
+<hr></hr>
+
+<div class="contenedorrr">
+
+<font size="5" color="#CD5C5C">
+	<h1>Nuestro objetivo</h1></font size="5" color="#CD5C5C">
+<font size="5" color="#F08080"><h2>Nuestro objetivo es que todas las personas del mundo tengan acceso a la ultima gama de tecnologia. Para eso hemos llevado muchas de las nuevas tecnologias a dichos paises e impulsado el desarrollo de las suyas propias, con tal de promover el avance.</h2></font size="5" color="#F08080"> 
+<h3><strong>Algunos paises que estan en una situacion preocupante</strong></h3>
+<ul>
+<li>Madagascar
+<li>Senegal
+<li>Nigeria<p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65335771.55317961!2d-16.15904166213954!3d1.8319751763726433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10a06c0a948cf5d5%3A0x108270c99e90f0b3!2zw4FmcmljYQ!5e0!3m2!1ses!2sdo!4v1679588318965!5m2!1ses!2sdo" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><p>
+
+</div>
+<hr></hr>
+
+
+<div class="contenedorrrr">
+<a target="_blank" href="https://www.un.org/ecosoc/es/home/">Informacion mas a detalle sobre las ultimos movimientos de la organizacion</a><p></p>
+<cite>Proyecto apoyado por la ONU.</cite>
+</div>
+
+</body>
+</html>
